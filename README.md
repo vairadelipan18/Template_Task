@@ -7,7 +7,7 @@ This project is a RESTful API built using Flask and MongoDB (hosted on MongoDB A
 Hosted URL
 
 API is hosted on Render:
-Live API
+https://mail-template-c8qy.onrender.com
 
 Features
 
